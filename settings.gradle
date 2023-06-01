@@ -1,0 +1,5 @@
+rootProject.name = 'EX5_4_task2'
+include 'db'
+include 'api'
+include 'service'
+
